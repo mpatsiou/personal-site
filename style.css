@@ -1,0 +1,56 @@
+body {
+    color: #aa7443;
+    background-color: #fcf7da;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 90%;
+}
+img {
+    float: inherit;
+    margin-left: auto;
+    margin-bottom: auto;
+
+}
+h1 {
+    font-size: 110%;
+    margin-bottom: 0px;
+}
+
+#per {
+    background-color: #ad8a67;
+    margin-left: none;
+    padding-left: auto;
+}
+
+#contact{
+    padding-left: 0px;
+    list-style-type: none;
+    border-style:dotted;
+
+}
+#all {
+    padding-left: 8px;
+    list-style-position:outside;
+}
+#edu {
+    border-style:dotted;
+}
+#skills {
+    border-style:dotted;
+    list-style-type:square;
+}
+#lessons {
+    border-style:dotted;
+    border-color: #aa7443;
+}
+
+tr{
+
+}
+th {
+    text-align: center;
+}
+td {
+    text-align: center;
+    padding-right: 8px;
+    padding-bottom: 8px;
+}
